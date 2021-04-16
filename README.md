@@ -2,7 +2,7 @@ Hi
 
 I'm a currently a Masters Student in a computational research group at the University of Oxford
 
-Looking to get into software engineering
+Actively ooking to get into software engineering.
 
 Coding languages: Python, C#
 
