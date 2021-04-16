@@ -1,4 +1,7 @@
-### Hi there 👋
+Hi
+I'm a currently a Masters Student in a computational research group at the University of Oxford
+Looking to get into software engineering
+Coding languages: Python, C#
 
 <!--
 **Rorzo123/Rorzo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
