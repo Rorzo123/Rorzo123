@@ -1,6 +1,6 @@
 Hi
 
-I'm a currently a Masters Student in a computational research group at the University of Oxford
+I'm a currently a Masters Student in a computational chemistry research group at the University of Oxford
 
 Actively ooking to get into software engineering.
 
