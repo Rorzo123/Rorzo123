@@ -1,10 +1,3 @@
-Hi
-
-I'm a currently a Masters Student in a computational chemistry research group at the University of Oxford
-
-Actively ooking to get into software engineering.
-
-Coding languages: Python, C#
 
 <!--
 **Rorzo123/Rorzo123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
